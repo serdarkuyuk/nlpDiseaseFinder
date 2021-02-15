@@ -3,7 +3,6 @@ import streamlit as st
 import pickle
 import spacy
 from spacy import displacy
-import en_core_web_sm
 import os
 
 
